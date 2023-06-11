@@ -15,6 +15,6 @@ function agregarCurso(e){
     e.preventDefault();
 
     if(e.target.classList.contains('agregar-carrito')) {
-        console.log('Agregando al carrito...')
+        console.log('Agregando al carrito')
     }
 }
